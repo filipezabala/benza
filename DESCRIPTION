@@ -7,8 +7,9 @@ Maintainer: Filipe J. Zabala <filipe.zabala@gmail.com>
 URL: https://github.com/filipezabala/benza
 BugReports: https://github.com/filipezabala/benza/issues
 Description: General purpouse tools used in Benzano's applications and papers.
-Depends: R (>= 3.6.1), lavaan, blavaan
+Depends: R (>= 3.6.1), lavaan, semPlot
 Imports: tidyverse
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
