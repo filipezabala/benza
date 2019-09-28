@@ -1,11 +1,14 @@
-Package: benzatemp
+Package: benza
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: General Tools used in Benzano's applications and papers.
+Version: 0.0.0.9000
+Author@R: c(person("Filipe", "J. Zabala", email = "filipe.zabala@gmail.com", role = c("aut","cre")), person("Daniela", "B. Benzano", role = "aut"))
+Maintainer: Filipe J. Zabala <filipe.zabala@gmail.com>
+URL: https://github.com/filipezabala/benza
+BugReports: https://github.com/filipezabala/benza/issues
+Description: General purpouse tools used in Benzano's applications and papers.
+Depends: R (>= 3.6.1), lavaan, blavaan
+Imports: tidyverse
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
