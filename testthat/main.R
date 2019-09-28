@@ -22,8 +22,8 @@ devtools::load_all()
 search()
 
 # installing and attaching jurimetrics
-devtools::install_github('filipezabala/jurimetrics', force = T)
-library(jurimetrics)
+devtools::install_github('filipezabala/benza', force = T)
+library(benza)
 
 
 
